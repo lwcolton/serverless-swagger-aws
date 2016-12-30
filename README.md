@@ -1,2 +1,2 @@
 # serverless-swagger-aws
-Integrate Swagger with the Serverless framework for URL paths and request models
+Integrate Swagger with the Serverless framework and Amazon API Gatweway
